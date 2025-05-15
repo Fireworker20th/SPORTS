@@ -1,0 +1,8 @@
+datasets:
+    "scene":
+        scene_path:  /media/jydai/C0FED904FED8F39E/download_jyd/project/READ-main/Data/vkitti2/s01/scene.yaml
+        target_path:  /media/jydai/C0FED904FED8F39E/download_jyd/project/READ-main/Data/vkitti2/s01/image
+#mask_path:  /media/jydai/C0FED904FED8F39E/download_jyd/project/READ-main/Data/vkitti2/s09/mask
+        target_name_func: "lambda i: f'{i}.jpg'"
+#mask_name_func: "lambda i: f'{i}.png'"
+

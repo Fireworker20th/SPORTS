@@ -1,0 +1,16 @@
+viewport_size: [1242, 375]
+view_matrix:  Data/vkitti2/s20/vknet_s20/pose.txt
+pointcloud:  Data/vkitti2/s20/vknet_s20/global_point_cloud.ply
+#net_ckpt:  data/logs/knet_s20n/checkpoints/UNet_stage_0_epoch_49_net.pth
+#texture_ckpt: data/logs/knet_s20n/checkpoints/PointTexture_stage_0_epoch_49_scene.pth
+
+
+net_ckpt:  data/logs/07-16_18-32-47___crop_size^(256,256)__use_mask^True/checkpoints/UNet_stage_0_epoch_14_net.pth
+texture_ckpt: data/logs/07-16_18-32-47___crop_size^(256,256)__use_mask^True/checkpoints/PointTexture_stage_0_epoch_14_scene.pth
+
+
+intrinsic_matrix: Data/vkitti2/s01/ccc.dft
+
+#data_ratio: 0.01
+
+

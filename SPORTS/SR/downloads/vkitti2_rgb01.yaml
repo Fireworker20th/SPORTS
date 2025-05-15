@@ -1,0 +1,14 @@
+viewport_size: [1242, 375]
+view_matrix:  Data/vkitti2/s01/pose.txt
+pointcloud:  Data/vkitti2/s01/global_point_cloud.ply
+#net_ckpt:  data/logs/seg/checkpoints/UNet_stage_0_epoch_99_net.pth
+#texture_ckpt: data/logs/seg/checkpoints/PointTexture_stage_0_epoch_99_scene.pth
+
+net_ckpt:  data/logs/rgbs01_show/checkpoints/UNet_stage_0_epoch_99_net.pth
+texture_ckpt: data/logs/rgbs01_show/checkpoints/PointTexture_stage_0_epoch_99_scene.pth
+
+intrinsic_matrix: Data/vkitti2/s01/ccc.dft
+
+#data_ratio: 0.01
+
+

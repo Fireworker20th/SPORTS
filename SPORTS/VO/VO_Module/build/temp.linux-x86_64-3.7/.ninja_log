@@ -1,0 +1,21 @@
+# ninja log v5
+1	11141	1702465450701136900	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/droid.o	44e2059ae2c10fd6
+1	55280	1702465494836651700	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/correlation_kernels.o	346a2101fb0d3095
+2	57633	1702465497187086600	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/altcorr_kernel.o	756f118958275eff
+1	63852	1702465503404226400	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/droid_kernels.o	a19a8f987cb58d32
+0	7896	1702465512290825600	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch.o	6dc3ec27b0c6f5ec
+1	30120	1702465534501538200	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch_cpu.o	fa9f7997336aca9a
+1	187908	1702465692264926100	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch_gpu.o	29ec13edb605e63a
+2	10105	1702529869343029300	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/droid.o	44e2059ae2c10fd6
+12	10127	1702529881732185800	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch.o	6dc3ec27b0c6f5ec
+13	32194	1702529903788549700	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch_cpu.o	fa9f7997336aca9a
+4	13394	1702558048052954400	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/droid.o	a635ffed76914779
+5	80820	1702558115480748300	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/correlation_kernels.o	7bc8bf9cf6a23a83
+5	83861	1702558118518501600	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/altcorr_kernel.o	f3f338e1bceb8fa6
+4	90846	1702558125503563400	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/droid_kernels.o	dc4bce0083197434
+14	10623	1702558138645887400	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch.o	6e03c978ec6cbf74
+14	32840	1702558160848562900	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch_cpu.o	54e4c94d5c6681ec
+14	216324	1702558344310791000	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch_gpu.o	65ed3356e277a7b3
+6	8187	1702561758179770700	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/src/droid.o	a635ffed76914779
+14	8483	1702561768856839600	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch.o	6e03c978ec6cbf74
+14	31756	1702561792121496600	/media/jydai/C0FED904FED8F39E/download_jyd/project/PVO-main/VO_Module/build/temp.linux-x86_64-3.7/thirdparty/lietorch/lietorch/src/lietorch_cpu.o	54e4c94d5c6681ec
