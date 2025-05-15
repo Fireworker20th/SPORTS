@@ -8,6 +8,12 @@ We proposes a novel framework, named SPORTS, for holistic scene understanding vi
 
 ## Note
 
+Our code is mainly divided into three parts: VPS, VO, and SR. 
+
+1. The VPS module includes both the baseline model and models integrated with various channel attention mechanisms.  
+2. The VO module consists of localization, point cloud map reconstruction, and the code for matching segmentation results.
+3. The SR module contains point-based rendering methods.
+
 The initially released code in this version constitutes the core components, with the relevant configuration files and datasets to be gradually made available in subsequent phases.
 
 ## Acknowledgement
