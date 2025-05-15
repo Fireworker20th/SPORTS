@@ -3,7 +3,7 @@ We proposes a novel framework, named SPORTS, for holistic scene understanding vi
 (VO), and Scene Rendering (SR) tasks into an iterative and unified perspective.
 
 <p align="center">
-   <img src="fig1.png" width=800>
+   <img src="SPORTS/fig1.png" width=800>
 </p>
 
 ## Note
