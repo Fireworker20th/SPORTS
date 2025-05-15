@@ -6,6 +6,9 @@ We proposes a novel framework, named SPORTS, for holistic scene understanding vi
    <img src="fig1.png" width=800>
 </p>
 
+## Note
+
+The initially released code in this version constitutes the core components, with the relevant configuration files and datasets to be gradually made available in subsequent phases.
 
 ## Acknowledgement
 
