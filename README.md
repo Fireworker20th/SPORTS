@@ -1,4 +1,4 @@
-# TMMM-SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding
+# TMM-SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding
 We proposes a novel framework, named SPORTS, for holistic scene understanding via tightly integrating Video Panoptic Segmentation (VPS), Visual Odometry
 (VO), and Scene Rendering (SR) tasks into an iterative and unified perspective.
 
