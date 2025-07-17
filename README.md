@@ -1,4 +1,4 @@
-# SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding
+# TMMM-SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding
 We proposes a novel framework, named SPORTS, for holistic scene understanding via tightly integrating Video Panoptic Segmentation (VPS), Visual Odometry
 (VO), and Scene Rendering (SR) tasks into an iterative and unified perspective.
 
@@ -14,7 +14,9 @@ Our code is mainly divided into three parts: VPS, VO, and SR.
 2. The VO module consists of localization, point cloud map reconstruction, and the code for matching segmentation results.
 3. The SR module contains point-based rendering methods.
 
-The initially released code in this version constitutes the core components, with the relevant configuration files and datasets to be gradually made available in subsequent phases.
+The initially released code in this version constitutes the core components.
+
+"Please refer to the code in `VPS/knet/att` for the core geometric information fusion module. Other aspects such as the dataset and overall framework environment configuration will be considered for release at a later stage."
 
 ## Acknowledgement
 
