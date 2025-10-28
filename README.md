@@ -14,9 +14,9 @@ Our code is mainly divided into three parts: VPS, VO, and SR.
 2. The VO module consists of localization, point cloud map reconstruction, and the code for matching segmentation results.
 3. The SR module contains point-based rendering methods.
 
-The initially released code in this version constitutes the core components.
+The released code constitutes the core components.
 
-"Please refer to the code in `VPS/knet/att` for the core geometric information fusion module. Other aspects such as the dataset and overall framework environment configuration will be considered for release at a later stage."
+"Please refer to the code in `VPS/knet/att` for the core geometric information fusion module. Please refer to [PVO](https://github.com/zju3dv/PVO)、[Video-K-Net](https://github.com/lxtGH/Video-K-Net)、 [READ](https://github.com/JOP-Lee/READ) for environment configuration and dataset processing."
 
 ## Acknowledgement
 
